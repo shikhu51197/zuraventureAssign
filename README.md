@@ -11,6 +11,9 @@
 )
 [![Deployed App Vercel Link](https://img.shields.io/badge/Deployed_App_Vercel_Link-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://skilltank-website.vercel.app/)
 
+![29013785_7450173](https://github.com/shikhu51197/zuraventureAssign/assets/107506646/60f740af-85e2-4a48-8bf9-c76acaf9c3d1)
+
+
 
 
 ## 🔗 Profile Links✨

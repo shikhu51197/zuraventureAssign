@@ -1,4 +1,4 @@
-const backend_api = "http://localhost:8080";
+const backend_api = "https://zurabackend.onrender.com";
 
 export function login_user_api(user_body) {
   return fetch(`${backend_api}/create_user`, {

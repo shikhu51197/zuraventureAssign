@@ -97,8 +97,8 @@ function EditTranscriptPage() {
               width="33px"
               height="33px"
               padding="4.48px, 4.48px, 4.48px, 4.48px"
-              bg="wheat"
-              border="2px solid purple"
+              bg="#EBDDE2"
+              border="2px solid #E0B0FF"
               borderRadius={50}
               ml={"700px"}
             >

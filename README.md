@@ -7,9 +7,8 @@
 
 
 
-[![Backend Deploy to Vercel](https://img.shields.io/badge/Backend_Deployed_Vercel_Link-0A66C2?style=for-the-badge&logo=ko-fi&logoColor=white)](
-)
-[![Deployed App Vercel Link](https://img.shields.io/badge/Deployed_App_Vercel_Link-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://skilltank-website.vercel.app/)
+[![Backend Deploy to Vercel](https://img.shields.io/badge/Backend_Deployed_Vercel_Link-0A66C2?style=for-the-badge&logo=ko-fi&logoColor=white)](https://zurabackend.onrender.com/)
+[![Deployed App Vercel Link](https://img.shields.io/badge/Deployed_App_Vercel_Link-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://zuraventure-assign-fpvs.vercel.app/)
 
 
 

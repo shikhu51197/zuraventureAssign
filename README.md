@@ -123,6 +123,7 @@ DashboardPage--> WebgetConfigrationPage
 DashboardPage-->DeploymentPage
 DashboardPage--> PricingPage
 DashboardPage-->SettingsPage
+SettingsPage-->UploadUserProfile
 UploadProjectPage--> EditProject
 UploadProjectPage--> DeleteProjectpage
 WebgetConfigrationPage--> GeneralConfigrationpage
